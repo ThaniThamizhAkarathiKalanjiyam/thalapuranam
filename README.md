@@ -1212,3 +1212,6 @@ This is collection of Thalapuranankal; A public repository
 - 1420.திருப்பனசைப் புராணம்
 - 1421.திருவான்மியூர் மருந்தீஸ்வரர் தல வரலாறு 
 - 1422.திருவாவடுதுறைப் புராணம் - மாதவன்
+
+### Thanks
+- [Mintamil](https://groups.google.com/forum/#!msg/minTamil/jmynxApjThA/MqbpG4doSi8J)
