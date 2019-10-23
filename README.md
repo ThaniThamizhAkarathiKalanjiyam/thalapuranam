@@ -1213,5 +1213,11 @@ This is collection of Thalapuranankal; A public repository
 - 1421.திருவான்மியூர் மருந்தீஸ்வரர் தல வரலாறு 
 - 1422.திருவாவடுதுறைப் புராணம் - மாதவன்
 
-### Thanks
+### இணையப் பார்வையாளர்களின் பட்டியல்
+
+- தேனி அருகு கோயில்கள்
+	- 0001.வீரபாண்டி கௌமாரியம்மன் கோயில் தலவரலாறு 
+	- 0002.வீரபாண்டி கண்ணிஸ்வரமுடையார் கோயில் தலவரலாறு
+
+#### Thanks
 - [Mintamil](https://groups.google.com/forum/#!msg/minTamil/jmynxApjThA/MqbpG4doSi8J)
